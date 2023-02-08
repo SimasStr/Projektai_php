@@ -1,21 +1,4 @@
 <?php
-// exit();
-// echo '<pre>';
-// print_r($_SERVER);
-
-// $request_uri = explode('/', $_SERVER['REQUEST_URI']);
-
-//Paskutinė masyvo reikšmė
-// $file_query = $request_uri[count($request_uri) - 1];
-
-// Stringo išskaidymas į masyvą pagal nurodytą simbolį
-// $result = explode('?', $file_query);
-
-// Masyvo sujungimas į stringą pagal nurodytą simbolį
-// $result = implode('?', $result);
-
-// print_r($result);
-
 $dir = './';
 $back_link = '';
 
